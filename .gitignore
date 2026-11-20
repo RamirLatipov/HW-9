@@ -4,3 +4,4 @@
 transactions/
 .dotnet/
 .nuget/
+.templateengine/
